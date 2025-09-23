@@ -1,0 +1,43 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Society",
+      "Gender Studies"
+    ]
+  ],
+  "legacy_uid": "a6feb47e-c644-adfa-76c1-0d4c24c0d497",
+  "instructors": {
+    "content": [
+      "3fd41300-0ec5-08b2-f1b0-bf3de0248e62",
+      "043ba16d-ed6b-5caf-d32f-c386c337f0dd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c46db57c-9699-3827-ec0c-6590087f8ace",
+    "website": "wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012"
+  },
+  "course_title": "Feminist Inquiry: Strategies for Effective Scholarship",
+  "course_description": "This course investigates theories and practices of feminist inquiry across a range of disciplines. Feminist research involves rethinking disciplinary assumptions and methodologies, developing new understandings of what counts as knowledge, seeking alternative ways of understanding the origins of problems/issues, formulating new ways of asking questions and redefining the relationship between subjects and objects of study.\n\nWhat makes research distinctively feminist lies in the complex connections between epistemologies, methodologies and research methods. This course explores how these connections are formed in the traditional disciplines and raise questions about why they are inadequate and/or problematic for feminist inquiry and what, specifically, are the feminist critiques of these intersections.\n\nThis course is part of the {{% resource_link \"08c0d244-2703-4420-8ca3-996265dfe0f1\" \"Graduate Consortium in Women's Studies\" %}} at MIT.\n",
+  "department_numbers": [
+    "WGS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "WGS.615",
+  "course_image_thumbnail": {
+    "content": "9f27dc7b-2d7e-f67f-fac9-9260d4ae99dc",
+    "website": "wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "d35f98a0-7a4c-4dad-a759-b37637896a6a",
+  "site_short_id": "wgs.615-fall-2012",
+  "site_url_path": "courses/wgs-615-feminist-inquiry-strategies-for-effective-scholarship-fall-2012",
+  "title": "Course Metadata"
+}
