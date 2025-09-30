@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides a course overview and information on prerequisites,
   materials, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +18,7 @@ Seminar: 1 session / week; 3 hours / session
 The Graduate Consortium in Women's Studies
 ------------------------------------------
 
-This course is part of the {{% resource_link "08c0d244-2703-4420-8ca3-996265dfe0f1" "Graduate Consortium in Women's Studies" %}} (GCWS). GCWS at MIT is a pioneering effort that brings together feminist scholars and teachers at nine Boston area institutions devoted to graduate teaching and research in women's studies and to advancing interdisciplinary women's studies scholarship.
+This course is part of the [Graduate Consortium in Women's Studies](http://web.mit.edu/gcws/index.html) (GCWS). GCWS at MIT is a pioneering effort that brings together feminist scholars and teachers at nine Boston area institutions devoted to graduate teaching and research in women's studies and to advancing interdisciplinary women's studies scholarship.
 
 Prerequisite
 ------------
@@ -41,7 +43,7 @@ Bechdel, Alison. _Fun Home: A Family Tragicomic_. Mariner Books, 2007. ISBN: 978
 
 Davis, Angela Y. _Are Prisons Obsolete_? Seven Stories Press, 2003. ISBN: 9781583225813.
 
-Dreger, Alice Domurat. _One of Us: Conjoined Twins and the Future of Normal_. Harvard University Press, 2005. ISBN: 9780674018259. \[Preview with {{% resource_link "c7dbe2ab-9184-471f-98e9-05d74e976a68" "Google Books" %}}\]
+Dreger, Alice Domurat. _One of Us: Conjoined Twins and the Future of Normal_. Harvard University Press, 2005. ISBN: 9780674018259. \[Preview with [Google Books](http://books.google.com/books?id=dcRa9AvmSGkC&printsec=frontcover)\]
 
 Lahiri, Jhumpa. _Unaccustomed Earth_. Vintage Books, 2009. ISBN: 9780307278258.
 
